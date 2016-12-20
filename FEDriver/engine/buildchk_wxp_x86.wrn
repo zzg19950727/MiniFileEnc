@@ -1,0 +1,20 @@
+1>warnings in directory e:\project\driver2\driver2\driver\engine
+1>e:\project\driver2\driver2\driver\engine\main.c(565) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(579) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(614) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(643) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(655) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(748) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(824) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(838) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(920) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(924) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(1030) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(1344) : warning C4133: 'function' : incompatible types - from 'UCHAR *' to 'PUSHORT'
+1>e:\project\driver2\driver2\driver\engine\main.c(1495) : warning C4133: 'function' : incompatible types - from 'UCHAR *' to 'PUSHORT'
+1>e:\project\driver2\driver2\driver\engine\main.c(1591) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(1724) : warning C4133: 'function' : incompatible types - from 'UCHAR *' to 'PUSHORT'
+1>e:\project\driver2\driver2\driver\engine\main.c(2195) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(2246) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(2363) : warning C4090: 'function' : different 'const' qualifiers
+1>e:\project\driver2\driver2\driver\engine\main.c(2501) : warning C4090: 'function' : different 'const' qualifiers

@@ -1,0 +1,24 @@
+TARGETNAME=engine
+TARGETTYPE=DRIVER
+DRIVERTYPE=FS
+
+INCLUDEL  = ..\include
+
+TARGETLIBS= $(TARGETLIBS) \
+            $(IFSKIT_LIB_PATH)\fltMgr.lib
+
+C_DEFINES=$(C_DEFINES) -D_WIN2K_COMPAT_SLIST_USAGE
+
+SOURCES=main.c   \
+		process.c	\
+		file.c  \
+		message.c \
+		cache.c \
+		lib.c   \
+		ctx.c \
+		key.c \
+		rc4.c \
+		rc6.c \
+		3des.c \
+		aes.c \
+        engine.rc

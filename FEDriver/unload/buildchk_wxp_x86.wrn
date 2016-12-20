@@ -1,0 +1,4 @@
+1>warnings in directory e:\project\driver2\driver2\driver\unload
+1>e:\project\driver2\driver2\driver\unload\resource.h(1345) : warning RC4005: '_WIN32_WINNT' : redefinition
+1>e:\project\driver2\driver2\driver\unload\resource.h(1369) : warning RC4005: '_WIN32_IE' : redefinition
+1>e:\project\driver2\driver2\driver\unload\unload.c(3) : warning C4007: 'main' : must be '__cdecl'
