@@ -47,16 +47,8 @@ main (
 	USERCOMMAND_MESSAGE data;
 	USERCOMMAND_MESSAGE_REPLAY dataReplay;
 
-	/*char*CStr;
-	size_t len;
-	size_t converted = 0;
-	wchar_t*WStr;*/
 	char bufTest[1024];
 	int type;
-
-	/*char InBuffer[5] = "test";
-	char OutBuffer[MAX_PATH] = {0};
-	DWORD bytesReturned = 0;*/
 
     UNREFERENCED_PARAMETER(argc) ;
     UNREFERENCED_PARAMETER(argv) ;
